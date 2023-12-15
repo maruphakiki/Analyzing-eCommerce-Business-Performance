@@ -14,7 +14,7 @@ Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
 
 ## 📂 **STAGE 2: Data Preparation**
 
-Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce Brasil yang memiliki informasi pesanan dengan jumlah 99441 dari tahun 2016 hingga 2018. Terdapat fitur-titur yang membuat informasi seperti status pemesanan, lokasi, rincian item, jenis pembayaran, serta ulasan.
+Dataset yang digunakan adalah dataset sebuah perusahaan e-Commerce Brazil yang memiliki informasi pesanan dengan jumlah 99441 dari tahun 2016 hingga 2018. Terdapat fitur-titur yang membuat informasi seperti status pemesanan, lokasi, rincian item, jenis pembayaran, serta ulasan.
 
 ### **Create Database and ERD**
 **Langkah-langkah yang dilakukan meliputi:**
